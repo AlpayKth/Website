@@ -1,0 +1,45 @@
+DOCTYPE html>
+<html>
+<head>
+<title>Cat Gallery</title>
+</head>
+
+<body>
+
+<h1>Cat Gallery</h1>
+
+<p>
+<a href="index.html">Home</a> |
+<a href="breeds.html">Breeds</a> |
+<a href="care.html">Cat Care</a> |
+<a href="gallery.html">Gallery</a>
+</p>
+
+<hr>
+
+<h2>Some Pictures of Cats</h2>
+
+<p>
+Here are some cute cat pictures.
+</p>
+
+<img src="https://placekitten.com/200/200">
+
+<img src="https://placekitten.com/201/200">
+
+<br><br>
+
+<img src="https://placekitten.com/200/201">
+
+<img src="https://placekitten.com/202/200">
+
+<br><br>
+
+<p>
+Thank you for visiting my website.
+</p>
+
+<a href="index.html">Go back to Home</a>
+
+</body>
+</html>
