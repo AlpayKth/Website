@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cat Care</title>
+</head>
+
+<body>
+
+<h1>Cat Care</h1>
+
+<p>
+<a href="index.html">Home</a> |
+<a href="breeds.html">Breeds</a> |
+<a href="care.html">Cat Care</a> |
+<a href="gallery.html">Gallery</a>
+</p>
+
+<hr>
+
+<h2>How to Take Care of Cats</h2>
+
+<p>
+Taking care of a cat is not very hard but you need to be responsible.
+Here are some simple ways to take care of a cat.
+</p>
+
+<ul>
+
+<li>Give food everyday</li>
+
+<li>Provide clean drinking water</li>
+
+<li>Keep your cat clean</li>
+
+<li>Bring your cat to the vet if needed</li>
+
+<li>Play with your cat</li>
+
+</ul>
+
+<p>
+Cats need attention and care so they can stay healthy.
+</p>
+
+<br>
+
+<img src="https://placekitten.com/300/220">
+
+<br><br>
+
+<a href="index.html">Go back to Home</a>
+
+</body>
+</html>
+
+
+
