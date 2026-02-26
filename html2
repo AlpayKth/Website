@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cat Breeds</title>
+</head>
+
+<body>
+
+<h1>Cat Breeds</h1>
+
+<p>
+<a href="index.html">Home</a> |
+<a href="breeds.html">Breeds</a> |
+<a href="care.html">Cat Care</a> |
+<a href="gallery.html">Gallery</a>
+</p>
+
+<hr>
+
+<h2>Some Popular Cat Breeds</h2>
+
+<p>
+There are many types of cats in the world.
+Here are some common cat breeds.
+</p>
+
+<h3>Persian Cat</h3>
+<p>
+Persian cats have long hair and they are usually calm.
+</p>
+
+<h3>Siamese Cat</h3>
+<p>
+Siamese cats have short hair and they are very active.
+</p>
+
+<h3>Maine Coon</h3>
+<p>
+Maine Coon cats are big and friendly.
+</p>
+
+<br>
+
+<img src="https://placekitten.com/250/200">
+
+<br><br>
+
+<a href="index.html">Go back to Home</a>
+
+</body>
+</html>
+
